@@ -1,4 +1,4 @@
-Aufgabenstellung
+# Aufgabenstellung
 
 Schreibe eine Klasse „CheckMail“. Diese soll eine Methode „public boolean
 isValidMailadress(String address)“ enthalten. Diese Methode prüft ob die
